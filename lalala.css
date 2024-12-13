@@ -1,0 +1,10 @@
+body{
+    background-color: red;
+    color:aliceblue;
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+}
+p{
+    text-align:center;
+    font-size: 20px;
+}
